@@ -1,0 +1,4 @@
+﻿  xitong.cpp
+g:\c++\1xueshengguanli\1xueshengguanli\xitong.cpp(19): warning C4101: “m”: 未引用的局部变量
+  1xueshengguanli.vcxproj -> G:\c++\1xueshengguanli\Debug\1xueshengguanli.exe
+  1xueshengguanli.vcxproj -> G:\c++\1xueshengguanli\Debug\1xueshengguanli.pdb (Full PDB)
